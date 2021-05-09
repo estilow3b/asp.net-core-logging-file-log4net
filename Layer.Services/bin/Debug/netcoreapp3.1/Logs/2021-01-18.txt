@@ -1,0 +1,21 @@
+2021-01-18 13:01:03,648 [7] INFO  App  
+ Metodo Informativo 
+ 
+2021-01-18 13:01:03,663 [7] WARN  App  
+ Metodo Warning 
+ 
+2021-01-18 13:01:03,668 [7] ERROR App  
+ Metodo Error 
+ 
+2021-01-18 13:01:03,674 [7] INFO  App  
+ Index 
+ 
+System.Exception: Mensaje Excepcion Info
+2021-01-18 13:01:03,680 [7] WARN  App  
+ Index 
+ 
+System.Exception: Mensaje Excepcion Advertencia
+2021-01-18 13:01:03,685 [7] ERROR App  
+ Index 
+ 
+System.Exception: Mensaje Excepcion Error
